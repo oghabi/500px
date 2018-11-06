@@ -1,4 +1,4 @@
-# GAN-MNIST-adversarial-images
+# GAN-MNIST-Adversarial-Images
 Create adversarial images to fool a MNIST classifier in TensorFlow
 
 ## A Tech Challenge
