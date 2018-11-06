@@ -1,7 +1,6 @@
 # GAN-MNIST-Adversarial-Images
 Create adversarial images to fool a MNIST classifier in TensorFlow
 
-## A Tech Challenge
 **Backstory**
 
 The original concept of this notebook was based on a Machine Learning tech challenge from the Toronto startup [500px](https://500px.com). 
